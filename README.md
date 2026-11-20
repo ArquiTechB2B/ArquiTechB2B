@@ -1,6 +1,6 @@
 # ArquiTechB2B
 
-**Te digo en 10 días hábiles cuánto pagas en tecnología que no usas y rediseño tu operación para recuperarlo.**
+**Te digo en 3 días hábiles cuánto pagas en tecnología que no usas y rediseño tu operación para recuperarlo.**
 
 **Para quién:** dueños, dirección general, finanzas y TI; quien firma el gasto en tecnología.
 
@@ -20,4 +20,4 @@
 
 **Conflicto de interés:** cobro un honorario fijo más una parte variable sobre el ahorro verificado. No revendo software ni recibo comisiones de proveedores.
 
-**Un paso:** en 20 minutos armamos el calendario de tus 3 renovaciones de software más cercanas, con fecha, monto y plazo de aviso. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
+**Un paso:** En 20 minutos armamos la auditoría de arranque totalmente confidencial y personalizada con procesamiento local (en servidor propio) de datos. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
