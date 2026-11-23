@@ -14,10 +14,10 @@
 
 **Método:** ningún proyecto empieza sin seis documentos: `prd.md`, `architecture.md`, `rules.md`, `design.md`, `task.md` y `memory.md`.
 
-**Demostración:** trabajo con Soberano, un entorno de IA local que corre en mi propio equipo con modelos abiertos y valida sus respuestas por niveles, según la complejidad de cada petición.
+**Demostración:** trabajo con Soberano, un entorno de IA local que corre en mi propio equipo con modelos abiertos y valida sus respuestas por niveles, según la complejidad de cada petición ([ficha técnica](https://github.com/ArquiTechB2B/soberano)). El método del [EDI · Ecosistema Digital Independiente](https://github.com/ArquiTechB2B/ecosistema-digital-independiente) también es público.
 
 **Cómo cuido tu código:** vive en la organización de GitHub de tu empresa. Entro como colaborador y salgo al cierre del proyecto.
 
 **Conflicto de interés:** cobro un honorario fijo más una parte variable sobre el ahorro verificado. No revendo software ni recibo comisiones de proveedores.
 
-**Un paso:** En 20 minutos armamos la auditoría de arranque totalmente confidencial y personalizada con procesamiento local (en servidor propio) de datos. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
+**Un paso:** en 20 minutos definimos tu auditoría de arranque: qué datos necesito y cómo los proceso en mi propio equipo, con modelos locales. Tus datos no salen de él. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
