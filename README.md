@@ -20,4 +20,4 @@
 
 **Conflicto de interés:** cobro un honorario fijo más una parte variable sobre el ahorro verificado. No revendo software ni recibo comisiones de proveedores.
 
-**Un paso:** en 20 minutos definimos tu auditoría de arranque: qué datos necesito y cómo los proceso en mi propio equipo, con modelos locales. Tus datos no salen de él. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
+**Un paso:** en 20 minutos definimos tu auditoría de arranque: qué datos necesito y cómo los proceso en mi propio entorno [Soberano](https://github.com/ArquiTechB2B/soberano), con modelos locales. Tus datos no salen de él. [Escríbeme por LinkedIn](https://www.linkedin.com/in/amaury-p%C3%A9rez-23917b129/)
